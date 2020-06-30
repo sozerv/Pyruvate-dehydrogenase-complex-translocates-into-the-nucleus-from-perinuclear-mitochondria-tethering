@@ -1,5 +1,4 @@
-//Measuring mitochondrial distance from the nucleus written in IJ1 Macro language for Fiji
-//Measures mitochondria on top of the nucleus and then every 175 nm
+//Measuring mitochondrial distance from the nucleus written in IJ1 Macro language for Fiji. This code allows measurement of mitochondria on top of the nucleus and then every 175 nm
 image1=getTitle();
 waitForUser("Ready?");
 run("Out [-]");
